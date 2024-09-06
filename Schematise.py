@@ -57,6 +57,9 @@ def main():
 
     st.session_state['openai_key'] = openai_key
     st.session_state['ik_api'] = ik_api
+    
+    st.image("ikanoon6_powered_transparent.png")
+    
 
     st.image('Schematise-logo-light.png')
 
